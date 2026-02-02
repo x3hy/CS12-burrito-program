@@ -1,0 +1,15 @@
+> CS12 PROGRAM ASSESSMENT
+This project was an assessment for my year-12 computer science course, This program is a feature-pentiful burrito ordering TUI that lets you add orders, edit orders and delete orders. Through a series of prompts the user can add a new order and with a few simple keypresses they can remove an order. This project was made with no prior planning (my most popular development principle) and it was done under a deadline. Take of that what you will.
+-------------------------
+
+How to use:
+Use the arrow keys to navigate menus, press enter to select items on menus.
+-------------------------
+
+To compile the project refer to COMPILE.txt.
+-------------------------
+
+This project is unmaintained and will never be updated, use at your own risk.
+
+-----------------------
+This repo is a cut from a bigger repo containing all of my year 12 computer science work, this is why it only has a few commits. refer to https://github.com/x3hy/CS12 for the full git history.

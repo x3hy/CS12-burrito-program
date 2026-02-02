@@ -1,0 +1,15 @@
+To install in windows you need to install a compiler, I recommend twm-gcc but if you want to use another compiler 
+just make sure it provides the gcc command globally, heres how to install twm-gcc if you need too:
+
+go to "https://jmeubank.github.io/tdm-gcc/download/" and download tdm64-gcc (not tdm-gcc or tdm-gcc-webdl)
+now open the installer and go through the setup.
+
+
+now that you have installed GCC you can now compile the file, download all of this code locally this can be done 
+by opening "https://github.com/9JH1/CS12/archive/refs/heads/main.zip" in your browser, this will download a zip 
+of all the code, unzip this and open that folder in cmd or powershell and execute: 
+
+gcc -o main main.c main_lib.c 
+
+A new file should have appeared ( main.exe ) run this file to execute the program.
+if any issues occured either google it or email me.
